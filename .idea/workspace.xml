@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f23e8dcc-c3b5-44cb-afe4-e9b13368daa8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javabycode/springboot/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javabycode/springboot/HelloWorldController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javabycode/springboot/MyWebApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javabycode/springboot/MyWebApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/hello.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/hello.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Sprint Repom2" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="17" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2oITEHdOUJu8njoHXPsJl4JDxrJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.MyWebApplication.executor": "Run",
+    "JUnit.All in SpringBootMavenExample.executor": "Run",
+    "Maven.SpringBootMavenExample [-U,idea:idea].executor": "Run",
+    "Maven.SpringBootMavenExample [clean,compile...].executor": "Run",
+    "Maven.SpringBootMavenExample [clean,compile].executor": "Run",
+    "Maven.SpringBootMavenExample [clean,install].executor": "Run",
+    "Maven.SpringBootMavenExample [clean].executor": "Run",
+    "Maven.SpringBootMavenExample [compile].executor": "Run",
+    "Maven.SpringBootMavenExample [install].executor": "Run",
+    "Maven.SpringBootMavenExample [spring-boot:run].executor": "Run",
+    "Maven.SpringBootMavenExample [spring-boot:start].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Workspace/sprinttestdemo",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.archetype.catalogs"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+      <command value="mvn -U idea:idea" />
+      <command value="mvn spring-boot:run" />
+      <command value="mvn spring-boot:start" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MyWebApplication">
+    <configuration name="MyWebApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javabycode.springboot.MyWebApplication" />
+      <module name="SpringBootMavenExample" />
+      <shortenClasspath name="MANIFEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javabycode.springboot.*" />
+          <option name="ENABLED" value="false" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in SpringBootMavenExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBootMavenExample" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MyWebApplication" />
+      <item itemvalue="JUnit.All in SpringBootMavenExample" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyWebApplication" />
+        <item itemvalue="JUnit.All in SpringBootMavenExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f23e8dcc-c3b5-44cb-afe4-e9b13368daa8" name="Changes" comment="" />
+      <created>1730555977235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730555977235</updated>
+    </task>
+    <servers />
+  </component>
+</project>
