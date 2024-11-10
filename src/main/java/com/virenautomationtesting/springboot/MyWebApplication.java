@@ -1,4 +1,4 @@
-package com.javabycode.springboot;
+package com.virenautomationtesting.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
