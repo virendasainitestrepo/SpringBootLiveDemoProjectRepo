@@ -17,7 +17,7 @@
         <sonar.token>squ_0bbce5f2e66b38067f276dbbde40cf019b4d9d8a</sonar.token>
          <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding> 
+         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding> 
         <sonar.java.binaries>target/classes</sonar.java.binaries>
         <sonar.sources>src/main/java/</sonar.sources>
     </properties>
