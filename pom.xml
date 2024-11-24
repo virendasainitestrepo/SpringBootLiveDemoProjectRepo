@@ -13,7 +13,7 @@
 
     <properties>
         <java.version>17</java.version>
-        <sonar.host.url>http://3.84.232.195:9000/</sonar.host.url>
+        <sonar.host.url>http://35.175.242.124/:9000/</sonar.host.url>
         <sonar.token>squ_0bbce5f2e66b38067f276dbbde40cf019b4d9d8a</sonar.token>
          <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
