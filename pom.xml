@@ -20,7 +20,7 @@
          <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding> 
         <sonar.sources>src/main/java/</sonar.sources>
          <sonar.sources>src/main/webapp/</sonar.sources>
-        <sonar.nodejs.executable>/var/lib/jenkins/tools/jenkins.plugins.nodejs.tools.NodeJSInstallation/node/bin/</sonar.nodejs.executable>
+        <sonar.nodejs.executable>/var/lib/jenkins/tools/jenkins.plugins.nodejs.tools.NodeJSInstallation/node/bin/node</sonar.nodejs.executable>
        
     </properties>
 
