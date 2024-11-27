@@ -10,7 +10,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 public class MyWebApplication extends SpringBootServletInitializer {
     @Override
     protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-        return application.sources(MyWebApplication.class)
+        return application.sources(MyWebApplication.class);
     }
 
     public static void main(String[] args) throws Exception {
