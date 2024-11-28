@@ -2,6 +2,7 @@ package testpkg;
 
 import com.virenautomationtesting.springboot.HelloWorldController;
 import com.virenautomationtesting.springboot.MyWebApplication;
+import com.virenautomationtesting.springboot.javacode;
 import org.junit.Test;
 
 public class Testcases {
@@ -13,9 +14,10 @@ public class Testcases {
     }
 
     @Test
-    public void testmain(){
-        MyWebApplication obj2= new MyWebApplication();
-       obj2.toString();
+    public void addint(){
+        javacode a= new javacode();
+        int c=a.add(10,20);
+        System.out.println(c);
     }
 
 }
