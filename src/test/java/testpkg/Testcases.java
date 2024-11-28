@@ -1,3 +1,5 @@
+package testpkg;
+
 import com.virenautomationtesting.springboot.HelloWorldController;
 import com.virenautomationtesting.springboot.MyWebApplication;
 import org.junit.Test;
