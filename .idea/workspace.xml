@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f23e8dcc-c3b5-44cb-afe4-e9b13368daa8" name="Changes" comment="Commit Code-for sonarTesting">
-      <change afterPath="$PROJECT_DIR$/sonar.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -157,7 +156,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731227954556</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit Code-for sonarTesting">
+      <option name="closed" value="true" />
+      <created>1732787473855</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732787473855</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit Code-for sonarTesting">
+      <option name="closed" value="true" />
+      <created>1732787739387</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732787739387</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
