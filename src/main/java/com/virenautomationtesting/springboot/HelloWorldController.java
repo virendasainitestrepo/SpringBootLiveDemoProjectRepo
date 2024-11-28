@@ -16,4 +16,8 @@ public class HelloWorldController {
         
         return "hello";
     }
+   public void hello2(){
+        System.out.println("Hellocalling");
+   }
+
 }

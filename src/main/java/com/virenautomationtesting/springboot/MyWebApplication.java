@@ -17,5 +17,10 @@ public class MyWebApplication extends SpringBootServletInitializer {
         SpringApplication.run(MyWebApplication.class, args);
 
     }
+
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }
 
