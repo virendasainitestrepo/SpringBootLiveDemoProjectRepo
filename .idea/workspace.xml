@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f23e8dcc-c3b5-44cb-afe4-e9b13368daa8" name="Changes" comment="Commit Code-for sonarTesting">
+      <change afterPath="$PROJECT_DIR$/src/main/test/testcases.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,36 +52,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.MyWebApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.virenautomationtesting.springboot.MyWebApplication.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.All in SpringBootMavenExample.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.SpringBootMavenExample [-U,idea:idea].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.SpringBootMavenExample [clean,compile...].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.SpringBootMavenExample [clean,compile].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.SpringBootMavenExample [clean,install].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.SpringBootMavenExample [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.SpringBootMavenExample [compile].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.SpringBootMavenExample [install].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.SpringBootMavenExample [spring-boot:run].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.SpringBootMavenExample [spring-boot:start].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.SpringBootMavenProject [clean,install].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.SpringBootMavenProject [spring-boot:run].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.SpringBootMavenProject [spring-boot:start].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Workspace/sprinttestdemo&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.archetype.catalogs&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.MyWebApplication.executor": "Run",
+    "Application.com.virenautomationtesting.springboot.MyWebApplication.executor": "Run",
+    "JUnit.All in SpringBootMavenExample.executor": "Run",
+    "Maven.SpringBootMavenExample [-U,idea:idea].executor": "Run",
+    "Maven.SpringBootMavenExample [clean,compile...].executor": "Run",
+    "Maven.SpringBootMavenExample [clean,compile].executor": "Run",
+    "Maven.SpringBootMavenExample [clean,install].executor": "Run",
+    "Maven.SpringBootMavenExample [clean].executor": "Run",
+    "Maven.SpringBootMavenExample [compile].executor": "Run",
+    "Maven.SpringBootMavenExample [install].executor": "Run",
+    "Maven.SpringBootMavenExample [spring-boot:run].executor": "Run",
+    "Maven.SpringBootMavenExample [spring-boot:start].executor": "Run",
+    "Maven.SpringBootMavenProject [clean,install].executor": "Run",
+    "Maven.SpringBootMavenProject [spring-boot:run].executor": "Run",
+    "Maven.SpringBootMavenProject [spring-boot:start].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Workspace/sprinttestdemo",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.archetype.catalogs"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn clean install" />
@@ -180,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732788416463</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit Code-for sonarTesting">
+      <option name="closed" value="true" />
+      <created>1732788943991</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732788943991</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
