@@ -7,7 +7,7 @@ public class Testcases {
     @Test
     public void test(){
         HelloWorldController obj= new HelloWorldController();
-        obj.hello2();
+        obj.hello2("viren");
     }
 
     @Test
